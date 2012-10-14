@@ -1,0 +1,28 @@
+#messages {
+  float: left;
+}
+
+#users {
+  float: right;
+}
+
+#messages .server {
+  color: #006699;
+  font-weight: bold;
+}
+
+#messages .disconnected {
+  color: gray;
+}
+
+#messages .userlist {
+  color: green;
+}
+
+#messages .connected {
+  color: blue;
+}
+
+.clear {
+  clear: both;
+}
